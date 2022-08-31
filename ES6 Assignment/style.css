@@ -1,0 +1,15 @@
+body{
+    background-color: #E5C2C1;
+}
+select{
+    padding: 5px;
+    font-weight: bold;
+    background-color: #E5C2C1;
+    border: 2px solid gray;
+}
+#para1{
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: grey;
+}
